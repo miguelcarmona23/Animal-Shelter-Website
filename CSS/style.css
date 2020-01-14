@@ -11,10 +11,7 @@ body {
   color: #2c3e50;
   background: #ecf0f1;
 }
-.navbar-inverse {
-  background: #2c3e50;
-  color: white;
-}
+
 .navbar-inverse .navbar-brand,
 .navbar-inverse a {
   color: white;
@@ -28,11 +25,6 @@ body {
 p {
   text-align: center;
 }
-
-
-
-
-
 .container {
   max-width: 93.5rem;
   margin: 0 auto;
@@ -50,4 +42,16 @@ p {
     margin: 1rem;
     color: #fff;
     cursor: pointer;
+}
+.navbar-inverse .navbar-toggle {
+  border-color: white !important;
+}
+
+.navbar-inverse {
+  background: #02A2D2 !important;
+  border-color: white !important;
+  color: white !important;
+}
+navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+  border-color: white;
 }
