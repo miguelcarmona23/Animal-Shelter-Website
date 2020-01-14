@@ -19,3 +19,6 @@ body {
 .navbar-inverse .navbar-nav > li > a {
   color: white;
 }
+.jumbotron h1 {
+  text-align: center;
+}
