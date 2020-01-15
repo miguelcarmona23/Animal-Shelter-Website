@@ -40,7 +40,7 @@ p {
   position: relative;
     flex: 1 0 22rem;
     margin: 1rem;
-    color: #fff;
+    color:black;
     cursor: pointer;
     border: 1px solid #e5e3e3;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,.2);
@@ -51,6 +51,7 @@ p {
     margin-bottom: 30px;
     text-align: center;
     margin-right: 10px;
+    list-style-type: none;
 }
 .navbar-inverse .navbar-toggle {
   border-color: white !important;
