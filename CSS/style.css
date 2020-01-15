@@ -90,14 +90,10 @@ main {
   height: auto;
   margin-bottom: 30px;
 }
-.Dropdown-group {
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: space-between;
-  height: auto;
-  margin-bottom: 30px;
+.dropdown {
+  flex-grow: 1;
+  padding: 10px;
 }
-
 select {
   display: block;
   font-size: 1em;
