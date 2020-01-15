@@ -69,3 +69,9 @@ navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
 .thumbnail li {
   padding: 0 10px;
 }
+
+h2 {
+  font-family: Heebo,sans-serif;
+    color: #0e7ea7;
+    margin: 2px;
+}
