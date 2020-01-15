@@ -79,3 +79,7 @@ h2 {
 li {
   list-style-type: none;
 }
+main {
+  padding-left: 4em;
+  padding-right: 4em;
+}
