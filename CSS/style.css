@@ -65,3 +65,7 @@ p {
 navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
   border-color: white;
 }
+
+.thumbnail li {
+  padding: 0 10px;
+}
