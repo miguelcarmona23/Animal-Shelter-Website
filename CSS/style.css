@@ -117,3 +117,20 @@ select {
   height: 275px;
   object-fit: cover;
 }
+
+.Footer {
+  background: #0e7ea7;
+  color: white;
+  display: flex;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.Footer p {
+  color: white;
+  font-size: 0.75em;
+}
+.Footer-social {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+}
