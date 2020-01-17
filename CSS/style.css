@@ -43,11 +43,11 @@ p {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,.2);
     -webkit-transition: .3s;
     transition: .3s;
-    width: 300px;
-    height: 400px;
+    /*width: 300px;
+    height: 400px;*/
     margin-bottom: 30px;
     text-align: center;
-    margin-right: 10px;
+    /*margin-right: 10px;*/
 }
 .navbar-inverse .navbar-toggle {
   border-color: white !important;
