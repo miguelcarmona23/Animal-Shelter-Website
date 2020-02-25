@@ -58,6 +58,7 @@ p {
     margin-bottom: 30px;
     text-align: center;
     /*margin-right: 10px;*/
+    cursor: pointer
 }
 
 .navbar-inverse .navbar-toggle {
