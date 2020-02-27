@@ -1,6 +1,6 @@
 # Animal Shelter Website
 
-This is a landing page for a animal shelter agency.
+This is a landing page for an animal shelter.
 
 ## Built With
 
