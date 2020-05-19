@@ -2,7 +2,7 @@
 
 This is a landing page for an animal shelter.
 
-![Image description](/img/project_thumbnail.png)
+![Image description](/images/project_thumbnail.png)
 
 ## Built With
 
